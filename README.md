@@ -1,98 +1,39 @@
-# 👋 Hi, I'm Deki
-
-### `Developer • Problem Solver • Lifelong Learner`
-
-I'm Deki, a developer who enjoys turning ideas into useful, clean, and scalable digital experiences.
-
-- 🔭 Currently building and experimenting with new projects
-- 🌱 Always learning something new
-- 💡 Interested in software, technology, and creative problem solving
-- ⚡ Fun fact: I enjoy turning ☕ into code
-
----
-
-## 🛠️ Tech Stack
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode&perline=10" />
+# 👋 Hey, I'm **Deki**
+
+### `Full-Stack Developer • Tech Enthusiast • Problem Solver`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+build+things+for+the+web.;Always+learning+something+new.;Code+%E2%80%A2+Create+%E2%80%A2+Repeat." />
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=58A6FF)
+![GitHub followers](https://img.shields.io/github/followers/USERNAME?style=for-the-badge&color=238636)
+![GitHub stars](https://img.shields.io/github/stars/USERNAME?style=for-the-badge&color=E3B341)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🧑‍💻 About Me
 
-<div align="center">
+```yaml
+name: Deki
+location: Indonesia 🇮🇩
+role: Developer
+focus:
+  - Web Development
+  - Software Engineering
+  - Automation
+  - Open Source
 
-<a href="https://github.com/USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPOSITORY-1&theme=tokyonight&hide_border=true" />
-</a>
+currently_learning:
+  - TypeScript
+  - React
+  - Node.js
+  - System Design
 
-<a href="https://github.com/USERNAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=REPOSITORY-2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/USERNAME">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ✨ "Build things that matter."
-
-<img src="https://komarev.com/ghpvc/?username=USERNAME&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" />
-
-</div>
+philosophy: "Build it. Break it. Learn from it. Improve it."
